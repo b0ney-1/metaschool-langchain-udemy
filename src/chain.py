@@ -24,9 +24,7 @@ def main():
             break
 
         try:
-            # Run the chain
-            response = qa_chain.run(user_question)
-            print("\\nResponse:", response)
+            #Todo: Run the chain
 
         except Exception as e:
             print(f"\\nAn error occurred: {str(e)}")
