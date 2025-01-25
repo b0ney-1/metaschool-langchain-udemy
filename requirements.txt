@@ -4,3 +4,5 @@ langchain-community
 python-dotenv
 duckduckgo-search
 requests
+httpx
+pillow
