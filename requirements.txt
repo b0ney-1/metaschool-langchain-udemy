@@ -2,7 +2,5 @@ langchain
 langchain-openai
 langchain-community
 python-dotenv
-duckduckgo-search
-requests
-httpx
-pillow
+docarray
+beautifulsoup4
