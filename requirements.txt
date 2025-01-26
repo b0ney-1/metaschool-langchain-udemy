@@ -3,4 +3,4 @@ langchain-openai
 langchain-community
 python-dotenv
 docarray
-beautifulsoup4
+pinecone-client
