@@ -2,5 +2,4 @@ langchain
 langchain-openai
 langchain-community
 python-dotenv
-docarray
 pinecone-client
